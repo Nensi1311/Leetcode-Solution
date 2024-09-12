@@ -57,11 +57,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
