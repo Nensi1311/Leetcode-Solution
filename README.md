@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -61,4 +63,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
