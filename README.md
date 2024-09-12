@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
