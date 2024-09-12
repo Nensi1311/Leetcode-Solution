@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 ## Simulation
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
