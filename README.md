@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
