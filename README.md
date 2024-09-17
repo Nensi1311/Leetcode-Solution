@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
