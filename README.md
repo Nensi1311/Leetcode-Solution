@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
