@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -39,6 +40,7 @@
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
