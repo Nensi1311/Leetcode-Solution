@@ -51,6 +51,7 @@
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
