@@ -21,6 +21,7 @@
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1524-string-matching-in-an-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
