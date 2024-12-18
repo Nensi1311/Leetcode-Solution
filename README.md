@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
