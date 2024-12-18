@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
