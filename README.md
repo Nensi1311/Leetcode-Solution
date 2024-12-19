@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Math
@@ -162,5 +163,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
