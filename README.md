@@ -48,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
