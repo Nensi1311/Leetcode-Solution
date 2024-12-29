@@ -76,6 +76,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 ## Simulation
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String Matching
 |  |
 | ------- |
