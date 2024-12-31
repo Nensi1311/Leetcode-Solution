@@ -80,6 +80,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Greedy
 |  |
@@ -113,6 +114,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Simulation
@@ -175,6 +177,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## String Matching
 |  |
@@ -216,6 +219,7 @@
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
