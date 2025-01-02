@@ -116,6 +116,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
@@ -181,6 +182,7 @@
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## String Matching
@@ -237,4 +239,5 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
