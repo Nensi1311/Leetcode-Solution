@@ -127,6 +127,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
@@ -286,5 +287,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
