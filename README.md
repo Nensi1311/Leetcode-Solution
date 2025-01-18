@@ -119,6 +119,7 @@
 | [0050-powx-n](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Math
@@ -130,6 +131,7 @@
 | [0050-powx-n](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
