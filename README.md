@@ -107,6 +107,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -222,6 +223,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
