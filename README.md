@@ -58,6 +58,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
@@ -83,6 +84,7 @@
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -111,6 +113,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
+| [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -296,4 +299,8 @@
 | [0029-divide-two-integers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
