@@ -2,13 +2,7 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         int n=nums.size();
-        long count=0;
-        if((n==1 && n>k) || (n==1 && n<k)){
-            return 0;
-        }
-        else if(n==1 && n==k){
-            return 1;
-        }
+        int count=0;
         for(int i=0; i<n; i++){
             int sum = nums[i];
             if(sum==k){
