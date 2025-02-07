@@ -42,6 +42,7 @@
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -119,6 +120,7 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
