@@ -48,6 +48,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
@@ -181,6 +182,7 @@
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Prefix Sum
 |  |
@@ -218,6 +220,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Number Theory
 |  |
