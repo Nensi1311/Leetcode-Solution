@@ -318,4 +318,16 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
