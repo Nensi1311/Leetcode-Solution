@@ -321,6 +321,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -329,5 +330,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
