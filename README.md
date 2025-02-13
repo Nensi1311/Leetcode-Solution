@@ -323,16 +323,19 @@
 | ------- |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
