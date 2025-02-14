@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    vector<int> v;
-    void minvalue(TreeNode* root){
+   
+    void minvalue(TreeNode* root,vector<int> &v){
         if(root == NULL){
             return ;
         }
-        minvalue(root->left);
+        minvalue(root->left,v);
         v.push_back(root->val);
-        minvalue(root->right);
+        minvalue(root->right,v);
     }
 
     int kthSmallest(TreeNode* root, int k) {
         if(root == NULL){
             return NULL;
         }
-        minvalue(root);
+        vector<int> v;
+        minvalue(root,v);
         // sort(v.begin(),v.end());
         return v[k-1];
     }
