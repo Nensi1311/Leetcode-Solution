@@ -11,16 +11,19 @@
  */
 class Solution {
 public:
-    vector<int> v;
-    bool isValidBST(TreeNode* root) {
+    bool solve(TreeNode* root, long mini, long maxi){
         if(root==NULL){
             return true;
         }
 
-        isValidBST(root->left);
-        v.push_back(root->val);
-        isValidBST(root->right); 
+        if(root->val >= maxi || root->val <= mini){
+            return false;
+        }
 
-        return is_sorted(v.begin(), v.end()) && adjacent_find(v.begin(), v.end())==v.end();
+        return solve(root->left, mini, root->val) && solve(root->right, root->val, maxi);
+    }
+
+    bool isValidBST(TreeNode* root) {
+        return solve(root, LONG_MIN, LONG_MAX);
     }
 };
