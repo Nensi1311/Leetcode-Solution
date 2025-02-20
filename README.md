@@ -51,6 +51,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
@@ -187,6 +189,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Prefix Sum
 |  |
@@ -366,4 +369,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
