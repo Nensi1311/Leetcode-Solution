@@ -102,6 +102,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
