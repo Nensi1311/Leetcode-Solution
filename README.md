@@ -107,6 +107,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Greedy
 |  |
 | ------- |
