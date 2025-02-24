@@ -32,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +156,7 @@
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
