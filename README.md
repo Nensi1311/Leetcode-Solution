@@ -59,6 +59,7 @@
 | [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
