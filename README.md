@@ -44,6 +44,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -211,6 +212,7 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0575-distribute-candies) |
+| [0889-buddy-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
