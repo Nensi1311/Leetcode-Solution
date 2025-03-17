@@ -33,13 +33,13 @@ public:
             }
         }
 
-        else if(count == 2){
+        if(count == 2){
             swap(s[v[0]], s[v[1]]);
             if(s == goal){
                 return true;
             }
         }
-        
+
         return false;
     }
 };
