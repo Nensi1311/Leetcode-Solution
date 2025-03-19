@@ -125,6 +125,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Greedy
 |  |
 | ------- |
@@ -341,6 +342,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
