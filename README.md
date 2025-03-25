@@ -101,6 +101,7 @@
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
+| [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
@@ -213,6 +214,7 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0575-distribute-candies) |
+| [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -293,6 +295,7 @@
 | [0155-min-stack](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -327,6 +330,7 @@
 | [0234-palindrome-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -419,4 +423,8 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
