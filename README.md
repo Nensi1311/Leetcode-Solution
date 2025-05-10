@@ -338,6 +338,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
