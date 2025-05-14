@@ -433,4 +433,5 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
