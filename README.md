@@ -429,4 +429,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
