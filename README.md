@@ -70,6 +70,7 @@
 | [0152-maximum-product-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
@@ -103,6 +104,7 @@
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -341,6 +344,7 @@
 | [0053-maximum-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -442,4 +446,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
