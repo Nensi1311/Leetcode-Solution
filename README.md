@@ -186,6 +186,7 @@
 | [2752-sum-multiples](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3859-maximum-product-of-two-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
