@@ -43,6 +43,7 @@
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0889-buddy-strings) |
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1524-string-matching-in-an-array) |
 ## Design
