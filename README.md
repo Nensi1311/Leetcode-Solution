@@ -81,6 +81,7 @@
 | [0031-next-permutation](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0066-plus-one) |
@@ -430,6 +431,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0051-n-queens) |
 | [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 ## Hash Function
 |  |
