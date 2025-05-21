@@ -99,6 +99,7 @@
 | [0118-pascals-triangle](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -272,6 +273,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
