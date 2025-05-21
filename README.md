@@ -85,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
@@ -268,6 +269,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
