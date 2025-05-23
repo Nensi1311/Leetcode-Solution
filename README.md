@@ -22,6 +22,7 @@
 | [0443-string-compression](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1894-merge-strings-alternately](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -117,6 +118,7 @@
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -159,6 +161,7 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -407,6 +410,7 @@
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
