@@ -162,6 +162,7 @@
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -325,6 +326,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -337,6 +339,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
@@ -412,6 +415,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
