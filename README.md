@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -422,6 +423,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
@@ -443,6 +445,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
@@ -456,6 +459,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0101-symmetric-tree) |
