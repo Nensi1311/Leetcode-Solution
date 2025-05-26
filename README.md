@@ -484,6 +484,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -493,6 +494,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -524,4 +526,12 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
