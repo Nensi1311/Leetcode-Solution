@@ -75,6 +75,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
@@ -107,6 +108,7 @@
 | [0238-product-of-array-except-self](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -149,6 +151,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
@@ -292,6 +295,7 @@
 | [0148-sort-list](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
