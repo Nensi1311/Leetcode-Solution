@@ -121,6 +121,7 @@
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1044-find-common-characters) |
@@ -389,6 +390,7 @@
 | [0048-rotate-image](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0945-snakes-and-ladders) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Nensi1311/Leetcode-Solution/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -501,6 +503,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
+| [0945-snakes-and-ladders](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0945-snakes-and-ladders) |
 ## Backtracking
 |  |
 | ------- |
