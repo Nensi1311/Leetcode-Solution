@@ -141,6 +141,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2388-replace-elements-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
@@ -209,6 +210,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2722-prime-in-diagonal) |
