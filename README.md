@@ -44,6 +44,7 @@
 | [0205-isomorphic-strings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -249,6 +250,7 @@
 | [0217-contains-duplicate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -315,6 +317,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
