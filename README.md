@@ -50,6 +50,7 @@
 | [0443-string-compression](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0812-rotate-string) |
@@ -255,6 +256,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0575-distribute-candies) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
@@ -349,6 +351,7 @@
 | [0155-min-stack](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0969-number-of-recent-calls) |
@@ -528,6 +531,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 ## Database
 |  |
