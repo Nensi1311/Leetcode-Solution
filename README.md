@@ -147,6 +147,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/Nensi1311/Leetcode-Solution/tree/master/2388-replace-elements-in-an-array) |
