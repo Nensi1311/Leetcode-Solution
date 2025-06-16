@@ -125,6 +125,7 @@
 | [0575-distribute-candies](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
@@ -300,6 +301,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Nensi1311/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nensi1311/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
