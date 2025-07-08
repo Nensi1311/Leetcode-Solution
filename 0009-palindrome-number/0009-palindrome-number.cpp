@@ -13,10 +13,6 @@ public:
             ans = ans*10 + x%10;
             x /= 10;
         }
-        
-        if(ans == n){
-            return true;
-        }
-        return false;
+        return ans == n;
     }
 };
